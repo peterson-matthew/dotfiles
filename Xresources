@@ -3,3 +3,10 @@
 ! Xterm settings:
 xterm*faceName: Terminus:size=10:antialias=false
 xterm*toolBar: false
+!use color in place of bold and italics
+xterm*colorBDMode: true
+xterm*colorBD: rgb:82/a4/d3
+xterm*colorULMode: true
+xterm*colorUL: rgb:e4/e4/e4
+!remove the black border
+xterm*borderWidth: 0
