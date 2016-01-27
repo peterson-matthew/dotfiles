@@ -9,4 +9,4 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
 #enable shell transparency
-[ -n "$XTERM_VERSION" ] && transset-df 0.9 -a >/dev/null
+[ -n "$XTERM_VERSION" ] && transset-df 0.8 -a >/dev/null
