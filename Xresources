@@ -1,4 +1,4 @@
-#include "/home/mpete/.xres/solarized"
+#include "/home/mpete/.xres/material"
 
 ! Xterm settings:
 xterm*faceName: Terminus:size=10:antialias=false
