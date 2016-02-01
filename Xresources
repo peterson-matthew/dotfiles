@@ -1,7 +1,16 @@
 #include "/home/mpete/.xres/material"
+#include "/home/mpete/dotfiles/urxvtrc"
+
+!xft settings
+Xft.autohint:	0
+Xft.lcdfilter:	lcddefault
+Xft.hintstyle:	3
+Xft.hinting:	1
+Xft.antialias:	1
+Xft.rgba:	rgb
 
 ! Xterm settings:
-xterm*faceName: Terminus:size=10:antialias=false
+xterm*faceName: Terminus:style=regular:size=12
 xterm*toolBar: false
 !use color in place of bold and italics
 xterm*colorBDMode: true
